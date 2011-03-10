@@ -33,7 +33,7 @@
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
-		activeBuildConfigurationName = Debug;
+		activeBuildConfigurationName = Release;
 		activeExecutable = C69CC19E13291D140058B522 /* Highwire */;
 		activeTarget = 8D1107260486CEB800E47090 /* Highwire */;
 		addToTargets = (
@@ -44,8 +44,8 @@
 			C69CC19E13291D140058B522 /* Highwire */,
 		);
 		perUserDictionary = {
-			PBXPerProjectTemplateStateSaveDate = 321461599;
-			PBXWorkspaceStateSaveDate = 321461599;
+			PBXPerProjectTemplateStateSaveDate = 321465676;
+			PBXWorkspaceStateSaveDate = 321465676;
 		};
 		sourceControlManager = C69CC1AA13291D1B0058B522 /* Source Control */;
 		userBuildSettings = {
@@ -165,9 +165,9 @@
 	};
 	C65C42C810DE0D6100459BCF /* ASIHTTPRequest.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1390, 45038}}";
-			sepNavSelRange = "{117043, 0}";
-			sepNavVisRange = "{116275, 1736}";
+			sepNavIntBoundsRect = "{{0, 0}, {1390, 44814}}";
+			sepNavSelRange = "{117566, 30}";
+			sepNavVisRange = "{117363, 649}";
 			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
 		};
 	};
