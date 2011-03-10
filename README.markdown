@@ -5,6 +5,8 @@ Highwire is the easiest way to access your Mac at home while you're at work, at 
 
 For the geeks in the audience, Highwire forwards your local Bonjour services across the internet to wherever you are.
 
+[Blog post](http://clickontyler.com/blog/2011/03/highwire-goes-open-source/) about why Highwire is now an open source project.
+
 FEATURES
 --------
 
