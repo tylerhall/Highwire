@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>iTunes Music Sharing</string>
+		<key>Service</key>
+		<string>_daap._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>HTTP</string>
+		<key>Service</key>
+		<string>_http._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>FTP</string>
+		<key>Service</key>
+		<string>_ftp._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Real Time Stream Control Protocol</string>
+		<key>Service</key>
+		<string>_rtsp._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SubEthaEdit</string>
+		<key>Service</key>
+		<string>_hydra._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Airport Base Station</string>
+		<key>Service</key>
+		<string>_airport._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Apple File Sharing</string>
+		<key>Service</key>
+		<string>_afpovertcp._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Print Spooler</string>
+		<key>Service</key>
+		<string>_printer._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Internet Printing Protocol</string>
+		<key>Service</key>
+		<string>_ipp._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Printer PDL Data Stream</string>
+		<key>Service</key>
+		<string>_pdl-datastream._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Remote AppleEvents</string>
+		<key>Service</key>
+		<string>_eppc._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Workgroup Manager</string>
+		<key>Service</key>
+		<string>_workstation._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SSH</string>
+		<key>Service</key>
+		<string>_ssh._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Telnet</string>
+		<key>Service</key>
+		<string>_telnet._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Samba</string>
+		<key>Service</key>
+		<string>_smb._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Safari Menu</string>
+		<key>Service</key>
+		<string>_safarimenu._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Clipboard Sharing</string>
+		<key>Service</key>
+		<string>_clipboard._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Apple Password Server</string>
+		<key>Service</key>
+		<string>_apple-sasl._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Screen Sharing</string>
+		<key>Service</key>
+		<string>_ssscreenshare._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Nicecast</string>
+		<key>Service</key>
+		<string>_shoutcast._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>ClipboardSharing</string>
+		<key>Service</key>
+		<string>_clipboardsharing._tcp.</string>
+	</dict>
+
+	<dict>
+		<key>Name</key>
+		<string>Teleport</string>
+		<key>Service</key>
+		<string>_teleport._udp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iPhoto Picture Sharing</string>
+		<key>Service</key>
+		<string>_dpap._tcp.</string>
+	</dict>
+
+	<dict>
+		<key>Name</key>
+		<string>Apple Screen Sharing</string>
+		<key>Service</key>
+		<string>_rfb._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>SubEthaEdit 2</string>
+		<key>Service</key>
+		<string>_see._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>AirTunes</string>
+		<key>Service</key>
+		<string>_raop._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Apple Remote Desktop</string>
+		<key>Service</key>
+		<string>_net-assistant._udp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mac OS X Server Admin</string>
+		<key>Service</key>
+		<string>_servermgr._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>iTunes Digital Audio Control Protocol</string>
+		<key>Service</key>
+		<string>_dacp._tcp.</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Timbuktu</string>
+		<key>Service</key>
+		<string>_timbuktu._tcp.</string>
+	</dict>
+</array>
+</plist>

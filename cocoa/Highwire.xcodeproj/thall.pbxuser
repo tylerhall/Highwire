@@ -1,0 +1,351 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* HighwireAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1390, 731}}";
+			sepNavSelRange = "{294, 0}";
+			sepNavVisRange = "{0, 528}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* HighwireAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1390, 1400}}";
+			sepNavSelRange = "{95, 0}";
+			sepNavVisRange = "{0, 1443}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* Highwire_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 147}";
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C69CC19E13291D140058B522 /* Highwire */;
+		activeTarget = 8D1107260486CEB800E47090 /* Highwire */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Highwire */,
+		);
+		codeSenseManager = C69CC1AB13291D1B0058B522 /* Code sense */;
+		executables = (
+			C69CC19E13291D140058B522 /* Highwire */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 321461599;
+			PBXWorkspaceStateSaveDate = 321461599;
+		};
+		sourceControlManager = C69CC1AA13291D1B0058B522 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 122}";
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* Highwire */ = {
+		activeExec = 0;
+		executables = (
+			C69CC19E13291D140058B522 /* Highwire */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Highwire-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C6100E0010E911C900572807 /* Services.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	C61C0FB110E8C6CB00193875 /* ssh.sh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{472, 0}";
+			sepNavVisRange = "{0, 472}";
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	C61C0FB810E8C6E100193875 /* SSHTunnel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 670}";
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C61C0FB910E8C6E100193875 /* SSHTunnel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 2352}}";
+			sepNavSelRange = "{24, 0}";
+			sepNavVisRange = "{0, 2991}";
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C61C0FBA10E8C6E100193875 /* SSHTunnelManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1191}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	C61C0FBB10E8C6E100193875 /* SSHTunnelManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 541}";
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	C61C0FD810E8CBD700193875 /* NetServiceBrowserDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 938}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	C61C0FD910E8CBD700193875 /* NetServiceBrowserDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1946}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1855}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C65B9C9310E9918200A8011B /* COTGradientBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 73}";
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+	C65B9C9410E9918200A8011B /* COTGradientBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1733}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	C65C428910DE0B6F00459BCF /* HighwireAPI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1366}";
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+	C65C428A10DE0B6F00459BCF /* HighwireAPI.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 4032}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2479}";
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	C65C42C810DE0D6100459BCF /* ASIHTTPRequest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1390, 45038}}";
+			sepNavSelRange = "{117043, 0}";
+			sepNavVisRange = "{116275, 1736}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C66697E210DDEB6600A16291 /* step1.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+	C66697E610DDED9E00A16291 /* LoginWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1155}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	C66697E710DDED9E00A16291 /* LoginWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 2338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2397}";
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C684476C10E8226D00D685B5 /* HWMachine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 402}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C684476D10E8226D00D685B5 /* HWMachine.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 156}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C69B4B6110EF1001001F8079 /* TunnelStatusController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 400}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	C69B4B6210EF1001001F8079 /* TunnelStatusController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1386}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2216}";
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+	C69C653C10E85DA30049348F /* MainWindowController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2367}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C69C653D10E85DA30049348F /* MainWindowController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 6650}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2645}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	C69CC19E13291D140058B522 /* Highwire */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Highwire;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C69CC1AA13291D1B0058B522 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C69CC1AB13291D1B0058B522 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C6B4D14410F09857009D5323 /* COTMenuTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 79}";
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C6B4D14510F09857009D5323 /* COTMenuTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 497}";
+			sepNavWindowFrame = "{{130, 7}, {1498, 1301}}";
+		};
+	};
+	C6B4D16A10F0AD7A009D5323 /* COTTransparentTextFieldCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 257}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	C6B4D16B10F0AD7A009D5323 /* COTTransparentTextFieldCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1063}";
+			sepNavWindowFrame = "{{107, 28}, {1498, 1301}}";
+		};
+	};
+	C6C2E9F310EEB2A600D6B9B6 /* SupportedServicesController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 107}";
+			sepNavWindowFrame = "{{84, 49}, {1498, 1301}}";
+		};
+	};
+	C6C2E9F410EEB2A600D6B9B6 /* SupportedServicesController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 670}";
+			sepNavWindowFrame = "{{61, 70}, {1498, 1301}}";
+		};
+	};
+	C6DDEA2F10E9DE6200B5FF35 /* COTImageRow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 152}";
+			sepNavWindowFrame = "{{15, 112}, {1498, 1301}}";
+		};
+	};
+	C6DDEA3010E9DE6200B5FF35 /* COTImageRow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1439, 1173}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 603}";
+			sepNavWindowFrame = "{{38, 91}, {1498, 1301}}";
+		};
+	};
+}
