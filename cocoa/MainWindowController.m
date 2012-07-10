@@ -58,22 +58,23 @@
 		return;
 	}
 	
+    // THIS CODE IS REMOVED SINCE /sbin/service IS NO LONG AVAILABLE ON 10.7 AND 10.8
 	// Test if SSH is running...
-	NSTask *task = [[NSTask alloc] init];
-	[task setLaunchPath:@"/sbin/service"];
-	[task setArguments:[NSArray arrayWithObjects:@"--test-if-configured-on", @"ssh", nil]];
-	[task launch];
-	[task waitUntilExit];	
-	if([task terminationStatus] == 1)
-	{
-		NSAlert *alert = [[[NSAlert alloc] init] autorelease];
-		[alert addButtonWithTitle:@"Ok"];
-		[alert setMessageText:@"Remote Login Not Enabled"];
-		[alert setInformativeText:@"Highwire was unable to share this machine because Remote Login is not enabled. Please enable it via System Preferences → Sharing."];
-		[alert setAlertStyle:NSWarningAlertStyle];
-		[alert beginSheetModalForWindow:[self window] modalDelegate:self didEndSelector:nil contextInfo:nil];
-		return;
-	}
+//	NSTask *task = [[NSTask alloc] init];
+//	[task setLaunchPath:@"/sbin/service"];
+//	[task setArguments:[NSArray arrayWithObjects:@"--test-if-configured-on", @"ssh", nil]];
+//	[task launch];
+//	[task waitUntilExit];	
+//	if([task terminationStatus] == 1)
+//	{
+//		NSAlert *alert = [[[NSAlert alloc] init] autorelease];
+//		[alert addButtonWithTitle:@"Ok"];
+//		[alert setMessageText:@"Remote Login Not Enabled"];
+//		[alert setInformativeText:@"Highwire was unable to share this machine because Remote Login is not enabled. Please enable it via System Preferences → Sharing."];
+//		[alert setAlertStyle:NSWarningAlertStyle];
+//		[alert beginSheetModalForWindow:[self window] modalDelegate:self didEndSelector:nil contextInfo:nil];
+//		return;
+//	}
 
 	[piStartSharing startAnimation:self];
 	[btnStartSharing setEnabled:NO];
