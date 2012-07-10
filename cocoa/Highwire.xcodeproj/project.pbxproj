@@ -20,7 +20,6 @@
 		C61C0FBC10E8C6E100193875 /* SSHTunnel.m in Sources */ = {isa = PBXBuildFile; fileRef = C61C0FB910E8C6E100193875 /* SSHTunnel.m */; };
 		C61C0FBD10E8C6E100193875 /* SSHTunnelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C61C0FBA10E8C6E100193875 /* SSHTunnelManager.m */; };
 		C61C0FDA10E8CBD700193875 /* NetServiceBrowserDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C61C0FD910E8CBD700193875 /* NetServiceBrowserDelegate.m */; };
-		C648DF4E10ED60E90047F3AC /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C648DF4D10ED60E90047F3AC /* AddressBook.framework */; };
 		C650F61910DE0823002EFD87 /* NSObject+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C650F60E10DE0823002EFD87 /* NSObject+SBJSON.m */; };
 		C650F61A10DE0823002EFD87 /* NSString+SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C650F61010DE0823002EFD87 /* NSString+SBJSON.m */; };
 		C650F61B10DE0823002EFD87 /* SBJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = C650F61210DE0823002EFD87 /* SBJSON.m */; };
@@ -32,8 +31,6 @@
 		C65B9CB210E9A17E00A8011B /* OpenFeedback.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C65B9CAE10E9A17400A8011B /* OpenFeedback.framework */; };
 		C65B9D0210E9A39500A8011B /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C65B9D0110E9A39500A8011B /* Sparkle.framework */; };
 		C65B9D0510E9A39A00A8011B /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C65B9D0110E9A39500A8011B /* Sparkle.framework */; };
-		C65C427B10DE093500459BCF /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C65C427A10DE093500459BCF /* SystemConfiguration.framework */; };
-		C65C427F10DE094C00459BCF /* libz.1.2.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C65C427E10DE094C00459BCF /* libz.1.2.3.dylib */; };
 		C65C428B10DE0B6F00459BCF /* HighwireAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = C65C428A10DE0B6F00459BCF /* HighwireAPI.m */; };
 		C65C42CF10DE0D6100459BCF /* ASIFormDataRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = C65C42C610DE0D6100459BCF /* ASIFormDataRequest.m */; };
 		C65C42D010DE0D6100459BCF /* ASIHTTPRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = C65C42C810DE0D6100459BCF /* ASIHTTPRequest.m */; };
@@ -56,6 +53,9 @@
 		C6B4D16C10F0AD7A009D5323 /* COTTransparentTextFieldCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C6B4D16B10F0AD7A009D5323 /* COTTransparentTextFieldCell.m */; };
 		C6B6719410E89E7400AAA5E4 /* TCMPortMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6B6719310E89E7400AAA5E4 /* TCMPortMapper.framework */; };
 		C6B6719710E89E7900AAA5E4 /* TCMPortMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6B6719310E89E7400AAA5E4 /* TCMPortMapper.framework */; };
+		C6BC388915AC9F01001FD132 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6BC388715AC9EED001FD132 /* SystemConfiguration.framework */; };
+		C6BC388A15AC9F04001FD132 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6BC388515AC9EDD001FD132 /* AddressBook.framework */; };
+		C6BC388D15AC9F19001FD132 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C6BC388B15AC9F10001FD132 /* libz.dylib */; };
 		C6C2E9F510EEB2A600D6B9B6 /* SupportedServicesController.m in Sources */ = {isa = PBXBuildFile; fileRef = C6C2E9F410EEB2A600D6B9B6 /* SupportedServicesController.m */; };
 		C6DDEA3110E9DE6200B5FF35 /* COTImageRow.m in Sources */ = {isa = PBXBuildFile; fileRef = C6DDEA3010E9DE6200B5FF35 /* COTImageRow.m */; };
 		C6DDEA3910E9DEE300B5FF35 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = C6DDEA3710E9DEE300B5FF35 /* red.png */; };
@@ -104,7 +104,6 @@
 		C61C0FBB10E8C6E100193875 /* SSHTunnelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSHTunnelManager.h; sourceTree = "<group>"; };
 		C61C0FD810E8CBD700193875 /* NetServiceBrowserDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetServiceBrowserDelegate.h; sourceTree = "<group>"; };
 		C61C0FD910E8CBD700193875 /* NetServiceBrowserDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetServiceBrowserDelegate.m; sourceTree = "<group>"; };
-		C648DF4D10ED60E90047F3AC /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		C650F60C10DE0823002EFD87 /* JSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSON.h; sourceTree = "<group>"; };
 		C650F60D10DE0823002EFD87 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJSON.h"; sourceTree = "<group>"; };
 		C650F60E10DE0823002EFD87 /* NSObject+SBJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJSON.m"; sourceTree = "<group>"; };
@@ -122,8 +121,6 @@
 		C65B9C9410E9918200A8011B /* COTGradientBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COTGradientBar.m; sourceTree = "<group>"; };
 		C65B9CAE10E9A17400A8011B /* OpenFeedback.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = OpenFeedback.framework; sourceTree = "<group>"; };
 		C65B9D0110E9A39500A8011B /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
-		C65C427A10DE093500459BCF /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		C65C427E10DE094C00459BCF /* libz.1.2.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.1.2.3.dylib; path = usr/lib/libz.1.2.3.dylib; sourceTree = SDKROOT; };
 		C65C428910DE0B6F00459BCF /* HighwireAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HighwireAPI.h; sourceTree = "<group>"; };
 		C65C428A10DE0B6F00459BCF /* HighwireAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HighwireAPI.m; sourceTree = "<group>"; };
 		C65C42C510DE0D6100459BCF /* ASIFormDataRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASIFormDataRequest.h; sourceTree = "<group>"; };
@@ -156,6 +153,9 @@
 		C6B4D16A10F0AD7A009D5323 /* COTTransparentTextFieldCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COTTransparentTextFieldCell.h; sourceTree = "<group>"; };
 		C6B4D16B10F0AD7A009D5323 /* COTTransparentTextFieldCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = COTTransparentTextFieldCell.m; sourceTree = "<group>"; };
 		C6B6719310E89E7400AAA5E4 /* TCMPortMapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TCMPortMapper.framework; sourceTree = "<group>"; };
+		C6BC388515AC9EDD001FD132 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/AddressBook.framework; sourceTree = DEVELOPER_DIR; };
+		C6BC388715AC9EED001FD132 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
+		C6BC388B15AC9F10001FD132 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/lib/libz.dylib; sourceTree = DEVELOPER_DIR; };
 		C6C2E9F310EEB2A600D6B9B6 /* SupportedServicesController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SupportedServicesController.h; sourceTree = "<group>"; };
 		C6C2E9F410EEB2A600D6B9B6 /* SupportedServicesController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SupportedServicesController.m; sourceTree = "<group>"; };
 		C6DDEA2F10E9DE6200B5FF35 /* COTImageRow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = COTImageRow.h; sourceTree = "<group>"; };
@@ -169,13 +169,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6BC388D15AC9F19001FD132 /* libz.dylib in Frameworks */,
+				C6BC388915AC9F01001FD132 /* SystemConfiguration.framework in Frameworks */,
+				C6BC388A15AC9F04001FD132 /* AddressBook.framework in Frameworks */,
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
-				C65C427B10DE093500459BCF /* SystemConfiguration.framework in Frameworks */,
-				C65C427F10DE094C00459BCF /* libz.1.2.3.dylib in Frameworks */,
 				C6B6719410E89E7400AAA5E4 /* TCMPortMapper.framework in Frameworks */,
 				C65B9CAF10E9A17400A8011B /* OpenFeedback.framework in Frameworks */,
 				C65B9D0210E9A39500A8011B /* Sparkle.framework in Frameworks */,
-				C648DF4E10ED60E90047F3AC /* AddressBook.framework in Frameworks */,
 				C69CC20D132922220058B522 /* BWToolkitFramework.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -203,14 +203,14 @@
 		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				C6BC388B15AC9F10001FD132 /* libz.dylib */,
+				C6BC388715AC9EED001FD132 /* SystemConfiguration.framework */,
+				C6BC388515AC9EDD001FD132 /* AddressBook.framework */,
 				C69CC20C132922220058B522 /* BWToolkitFramework.framework */,
 				C65B9D0110E9A39500A8011B /* Sparkle.framework */,
 				C65B9CAE10E9A17400A8011B /* OpenFeedback.framework */,
 				C6B6719310E89E7400AAA5E4 /* TCMPortMapper.framework */,
 				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
-				C65C427A10DE093500459BCF /* SystemConfiguration.framework */,
-				C65C427E10DE094C00459BCF /* libz.1.2.3.dylib */,
-				C648DF4D10ED60E90047F3AC /* AddressBook.framework */,
 			);
 			name = "Linked Frameworks";
 			sourceTree = "<group>";
@@ -500,6 +500,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -514,6 +515,7 @@
 				INFOPLIST_FILE = "Highwire-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Highwire;
+				SDKROOT = macosx10.7;
 			};
 			name = Debug;
 		};
@@ -521,6 +523,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -532,6 +535,7 @@
 				INFOPLIST_FILE = "Highwire-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Highwire;
+				SDKROOT = macosx10.7;
 			};
 			name = Release;
 		};
